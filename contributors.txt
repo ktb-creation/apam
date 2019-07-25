@@ -1,0 +1,11 @@
+Apam contributors
+--------------------
+
+Thanks to these nice people:
+----------------------------
+
+DeveloppSoft (developpsoft.github.io) - Fixed english mistake and list cmd in framework
+Cyberind - for the link patch.
+Ags () - for adding Fedora instructions #3.
+lisogallo - 'external_js' option for including external scripts
+
